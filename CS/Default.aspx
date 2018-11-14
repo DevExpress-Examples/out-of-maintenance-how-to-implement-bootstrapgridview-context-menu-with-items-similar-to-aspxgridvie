@@ -12,7 +12,7 @@
     <link href="~/Content/bootstrap.min.css" rel="stylesheet" />
     <link href="~/Content/Site.css" rel="stylesheet" />
     <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
-    <script type="text/javascript" src="Script/Script.js"></script>
+    <script type="text/javascript" src="Content/Script.js"></script>
 </head>
 <body>
     <form id="form1" runat="server">
