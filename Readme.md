@@ -4,7 +4,7 @@
 * [BootstrapGridViewData.cs](./CS/App_Code/BootstrapGridViewData.cs) (VB: [BootstrapGridViewData.vb](./VB/App_Code/BootstrapGridViewData.vb))
 * [BootstrapGridViewDataItem.cs](./CS/App_Code/BootstrapGridViewDataItem.cs) (VB: [BootstrapGridViewDataItem.vb](./VB/App_Code/BootstrapGridViewDataItem.vb))
 * [Default.aspx](./CS/Default.aspx) (VB: [Default.aspx](./VB/Default.aspx))
-* [Default.aspx.cs](./CS/Default.aspx.cs) (VB: [Default.aspx](./VB/Default.aspx))
+* [Default.aspx.cs](./CS/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/Default.aspx.vb))
 * [Script.js](./CS/Script/Script.js) (VB: [Script.js](./VB/Script/Script.js))
 <!-- default file list end -->
 # How to implement a BootstrapGridView context menu with items similar to that found in ASPxGridView
