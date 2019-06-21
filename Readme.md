@@ -8,6 +8,9 @@
 * [Script.js](./CS/Script/Script.js) (VB: [Script.js](./VB/Script/Script.js))
 <!-- default file list end -->
 # How to implement a BootstrapGridView context menu with items similar to that found in ASPxGridView
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/t556641/)**
+<!-- run online end -->
 
 ### **Starting with v18.2**, BootstrapGridView provides Context Menu out of the box: [Context Menu Online Demo](https://demos.devexpress.com/Bootstrap/GridView/BarsAndDialogs.aspx#ContextMenu) 
 
